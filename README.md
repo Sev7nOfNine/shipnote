@@ -1,5 +1,10 @@
 # shipnote
 
+[![PyPI](https://img.shields.io/pypi/v/shipnote.svg)](https://pypi.org/project/shipnote/)
+[![CI](https://github.com/Sev7nOfNine/shipnote/actions/workflows/ci.yml/badge.svg)](https://github.com/Sev7nOfNine/shipnote/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/pypi/pyversions/shipnote.svg)](https://pypi.org/project/shipnote/)
+
 **Generate clean, grouped release notes straight from your git history — with zero dependencies.**
 
 `shipnote` reads the commits between two refs, understands
