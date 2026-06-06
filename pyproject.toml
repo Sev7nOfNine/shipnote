@@ -37,6 +37,9 @@ Homepage = "https://github.com/Sev7nOfNine/shipnote"
 Repository = "https://github.com/Sev7nOfNine/shipnote"
 Issues = "https://github.com/Sev7nOfNine/shipnote/issues"
 
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
 [project.scripts]
 shipnote = "shipnote.cli:main"
 
